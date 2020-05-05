@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
+### [NYC Green Taxi Challenge](https://yili808.github.io/NYC_green_taxi/) 2018-06-30
+A data science challenge related to Green Taxi in New York City.
 
 
-### [Shiny Apps](https://yili808.github.io/ShinyApps/)
+### [Shiny Apps](https://yili808.github.io/ShinyApps/) 2018-05-30
 Shiny applications developed during 2017-2018 as a research assistant working for Prof. Voeten at Georgetown University.
 
 
@@ -30,8 +32,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
