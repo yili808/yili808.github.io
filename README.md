@@ -1,6 +1,8 @@
 ### [An Easy ML flow](https://yili808.github.io/easy_ml_flow/) 2020-02-30
 An easy end-to-end ML flow includes loading data, processing data, tuning hyper-parameters of a selected algorithm, comparing different models' performance, and apply the best model to get prediction results. 
 
+Optimization tool: [sklearn-optimize](https://scikit-optimize.github.io/)
+
 ___
 
 ### [Spatial Data Challenge](https://yili808.github.io/Shapefiles/) 2018-09-30
