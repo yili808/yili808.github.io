@@ -9,6 +9,7 @@ ___
 A data science challenge related to handling geospatial data with shapefiles.
 
 Geospatial data tools: [GeoPandas](https://geopandas.org/), [Shapely](https://shapely.readthedocs.io/en/latest/), [Rasterio](https://rasterio.readthedocs.io/en/latest/) (for raster data).
+
 ___
 
 ### [NYC Green Taxi Data Challenge](https://yili808.github.io/NYC_green_taxi/)  2018-06-30 
