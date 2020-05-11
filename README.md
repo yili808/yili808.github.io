@@ -5,10 +5,10 @@ Optimization tools: [sklearn-optimize](https://scikit-optimize.github.io/)
 
 ___
 
-### [Spatial Data Challenge](https://yili808.github.io/Shapefiles/) 2018-09-30
-A data science challenge related to handling spatial data with shapefiles.
+### [Geospatial Data Challenge](https://yili808.github.io/Shapefiles/) 2018-09-30
+A data science challenge related to handling geospatial data with shapefiles.
 
-Spatial data tools: [GeoPandas](https://geopandas.org/), [Shapely](https://shapely.readthedocs.io/en/latest/), [Rasterio](https://rasterio.readthedocs.io/en/latest/) for geospatial raster data.
+Geospatial data tools: [GeoPandas](https://geopandas.org/), [Shapely](https://shapely.readthedocs.io/en/latest/), [Rasterio](https://rasterio.readthedocs.io/en/latest/) (for raster data).
 ___
 
 ### [NYC Green Taxi Data Challenge](https://yili808.github.io/NYC_green_taxi/)  2018-06-30 
