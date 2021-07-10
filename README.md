@@ -1,3 +1,25 @@
+### [Scene Text Recognition](https://yili808.github.io/Computer-Vision/Scene_Text_Recognition_YiLi.pdf) 2021-06-09
+A technical report/research on Scence Text Detection and Recognition. 
+Papers coverd in the slides: 
+- Scene Text Recognition:
+  - CRNN (CNN + BiLSTM + CTC loss)
+  - ASTER (Spatial Transformer Networks + CNN + BiLSTM + Attention-Based Decoder)
+  - MORAN (Pixel-Level Rectification + CNN + BiLSTM + Attention-Based Decoder) 
+  - TextScanner (Segmentation-Based with Mutual-Supervision Mechanism)
+
+- Scene Text Detection:
+  - DB-Net: Differentiable Binarization (use segmentation-based methods for detection)
+
+- OCR System
+  - PP-OCR: A	Practical	Ultra	Lightweight	OCR	System from	Baidu	Inc. 
+    
+    Main idea: 1 Detector + 1 Text Box Rectifier + N Recognizer (for recognizing multiple languages).
+
+
+Keywords: OCR, Scene Text Detection, Scene Text Recognition.
+
+___
+
 ### [An Easy ML flow](https://yili808.github.io/easy_ml_flow/) 2020-02-29
 An easy end-to-end ML flow includes loading data, processing data, tuning hyper-parameters of a selected algorithm, comparing different models' performance, and apply the best model to get prediction results. 
 
