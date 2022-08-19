@@ -2,13 +2,13 @@ title: Yi Li's Personal Website
 author:
   name: Yi Li
   email: YL808@georgetown.edu
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yi-li-808"
+  
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yili808"
 
 theme: jekyll-theme-minimal
-
-minima:
-  skin: dark
-
-minima:
-  social_links:
-    github: yili808
-    linkedin: yi-li-808
