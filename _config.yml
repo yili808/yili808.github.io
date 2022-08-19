@@ -4,3 +4,11 @@ author:
   email: YL808@georgetown.edu
 
 theme: jekyll-theme-minimal
+
+minima:
+  skin: dark
+
+minima:
+  social_links:
+    github: yili808
+    linkedin: yi-li-808
